@@ -1,8 +1,8 @@
-We at [**5controlS**]([url](https://5controls.com/)) are transforming the way businesses optimize their manufacturing  operations with our user-friendly software solutions. 
+We at [**5controlS**](https://5controls.com/) are transforming the way businesses optimize their manufacturing  operations with our user-friendly software solutions. 
 
 **Inventory Control** 
 
-Prevent low-stock levels and ensure timely replenishment with our intelligent [automated inventory management system]([url](https://5controls.com/solutions/automated-inventory-managment-system)). Keep your supply chain running smoothly and never miss a beat. 
+Prevent low-stock levels and ensure timely replenishment with our intelligent [automated inventory management system](https://5controls.com/solutions/automated-inventory-managment-system). Keep your supply chain running smoothly and never miss a beat. 
 
 **Operation Control** 
 
@@ -14,4 +14,4 @@ Gain complete visibility into your order execution process with our interactive 
 
 **Idle/Machine Control**
 
-Maximize the efficiency of your equipment and staff with our advanced [employee monitoring software]([url](https://5controls.com/solutions/employee-monitoring-software)). Identify idle time, reduce downtime, and increase overall productivity
+Maximize the efficiency of your equipment and staff with our advanced [employee monitoring software](https://5controls.com/solutions/employee-monitoring-software). Identify idle time, reduce downtime, and increase overall productivity
