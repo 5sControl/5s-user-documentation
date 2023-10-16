@@ -1,3 +1,5 @@
+### Read [the Wiki](https://github.com/5sControl/5s-user-documentation/wiki) for the user documentation.
+<br><br>
 We at [**5controlS**](https://5controls.com/) are transforming the way businesses optimize their manufacturing  operations with our user-friendly software solutions. 
 
 **Inventory Control** 
