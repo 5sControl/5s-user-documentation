@@ -1,6 +1,7 @@
 ### Read [the Wiki](https://github.com/5sControl/5s-user-documentation/wiki) for the user documentation.
 <br><br>
-We at [**5controlS**](https://5controls.com/) are transforming the way businesses optimize their manufacturing  operations with our user-friendly software solutions. 
+
+**[5controlS](https://5controls.com/)** is a video monitoring system with AI analysis and ERP Integration (Open Source) that helps companies improve productivity, eliminate waste, and enhance workplace safety using computer vision (CV) and machine learning (ML). 
 
 **Inventory Control** 
 
